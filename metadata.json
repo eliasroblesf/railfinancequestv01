@@ -1,0 +1,8 @@
+{
+  "name": "RailFinance Quest",
+  "description": "An engaging, step-by-step gamified learning application for Days 1 and 2 of the CapEx vs. OpEx: Planning, Budgeting, and Strategic Management course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
